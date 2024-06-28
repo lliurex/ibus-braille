@@ -1,3 +1,9 @@
+ibus-braille (1.1-1lliurex23) jammy; urgency=medium
+
+  * Packaged from git
+
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 28 Jun 2024 08:50:05 +0200
+
 ibus-braille (1.1-1) focal; urgency=medium
 
   * Bug fixes
